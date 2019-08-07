@@ -18,6 +18,7 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
+/* <img src="images/kitty-3.png" alt="kitty 3"> */
 
 /*__write_selector_here__*/ {
   position: absolute;
