@@ -40,7 +40,7 @@
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 /* <img src="images/kitty-5.png" alt="Kitty 5"> */
-body > div > img:nth-child(3) {
+img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
